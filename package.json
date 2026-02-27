@@ -1,0 +1,19 @@
+{
+  "name": "ai-news-launcher",
+  "version": "1.0.0",
+  "description": "Open-source autonomous news-to-token launcher powered by AI agents and on-chain automation. 🚧 Work in Progress — Autonomous AI Launch Infrastructure",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "axios": "^1.13.5",
+    "better-sqlite3": "^12.6.2",
+    "node-fetch": "^2.7.0",
+    "rss-parser": "^3.13.0"
+  }
+}

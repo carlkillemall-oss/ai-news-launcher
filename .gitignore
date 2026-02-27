@@ -1,0 +1,21 @@
+# secrets
+.env
+*.env
+
+# deps
+node_modules/
+
+# runtime / logs
+*.log
+pm2*.log
+cron.log
+
+# local db / generated data
+data.sqlite
+data/
+out/
+data/out/
+
+# OS / editor
+.DS_Store
+.vscode/
